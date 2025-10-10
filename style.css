@@ -2,10 +2,13 @@ body {
     background-color: rgba(100, 1, 1, 1);
     color: black;
     font-family: "UnifrakturMaguntia", cursive;
+margin: 0px;
+
 }
 
 header{
     font-size: 50px;
+    text-align: center;
 }
 
 h1{
