@@ -9,12 +9,17 @@ margin: 0px;
 header{
     font-size: 50px;
     text-align: center;
+    border-bottom:dashed 5px blueviolet;
+padding: 30px;
+color: rgb(232, 136, 232);
 }
 
 h1{
     font-size: 30px;
+    padding-left: 30px;
 }
 
 p{
     font-size: 30px;
+    padding-left: 30px;
 }
